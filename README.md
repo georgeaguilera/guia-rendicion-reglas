@@ -1,6 +1,6 @@
 # Reglas de la Guía de Rendición · Fondos de Cultura
 
-El programa *Guía de Rendición* descarga `reglas.xlsx` desde este repositorio cada vez que se abre. Con esas reglas arma la guía de documentos que cada responsable debe presentar. La [versión web](https://georgeaguilera.github.io/guia-rendicion/) usa las mismas reglas. Los instaladores del programa están en [Releases](https://github.com/georgeaguilera/guia-rendicion-reglas/releases).
+El programa *Guía de Rendición* descarga `reglas.xlsx` desde este repositorio cada vez que se abre. Con esas reglas arma la guía de documentos que cada responsable debe presentar. Los instaladores del programa están en [Releases](https://github.com/georgeaguilera/guia-rendicion-reglas/releases).
 
 Junto al Excel va `reglas.xlsx.firma`. Desde la versión 0.7.0, el programa acepta las reglas solo si esa firma calza con la clave que trae: así, aunque alguien entrara a esta cuenta, no podría publicar reglas falsas. Las versiones anteriores del programa no miran la firma.
 
